@@ -1,7 +1,7 @@
 FROM ros:jazzy
 
 LABEL maintainer="Na Song <quic_nasong@quicinc.com>"
-LABEL description="this docker file is for running QRB ROS applications on QCOM Linux"
+LABEL description="this docker file is for running QRB ROS applications on QCOM Linux."
 
 # disable terminal interaction for apt
 ENV DEBIAN_FRONTEND="noninteractive"
