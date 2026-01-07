@@ -30,3 +30,8 @@
 
 - dockerfile: support qrb_ros_transport, qrb_ros_nn_inference, qrb_ros_imu, qrb_ros_system_monitor
 - Contributors👉 Na Song
+
+## 8.8.8 (2026-01-07)
+
+- update readme for testing release tool
+- Contributors👉 Na Song
